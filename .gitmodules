@@ -6,4 +6,4 @@
 	url = git@github.com:raghav-mips/OpenROAD.git 
 [submodule "tools/yosys-slang"]
 	path = tools/yosys-slang
-	url = git@github.com:povik/yosys-slang.git
+	url = git@github.com:raghav-mips/yosys-slang.git
